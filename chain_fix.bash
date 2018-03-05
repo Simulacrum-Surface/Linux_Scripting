@@ -99,13 +99,3 @@ fi
 
 echo "[+] Your ExitNode is: ${exit_node}"
 exit 0
-
-
-
-
-
-
-
-
-
-
